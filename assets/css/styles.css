@@ -1,9 +1,9 @@
 /* --------- Global style */
 
 body {
-    background-color: white;
+    background-color: #ffffff;
     font-family: "Raleway", sans-serif;
-    color: #445361;
+    color: #1a70c0;
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ body {
 /* --------- Game layout */
 
 .game-area {
-    background-color: #E6ECF0;
+    background-color: #093048;
     box-sizing: border-box;
     width: 85%;
     height: 65vh;
@@ -89,10 +89,10 @@ body {
 .btn {
     width: 220px;
     height: 60px;
-    font-family: "Raleway", sans-serif;
+    font-family: "Raleway", 'sans-serif';
     text-transform: uppercase;
     letter-spacing: 1.2px;
-    color: white;
+    color: black;
 }
 
 .btn:focus {
@@ -165,7 +165,7 @@ body {
 
 .btn--gray {
     margin-top: 25px;
-    background-color: #445361;
+    background-color: #e35f07;
     border: 1px transparent;
     border-radius: 20px;
 }
